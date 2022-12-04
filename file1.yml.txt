@@ -2,3 +2,6 @@ line 1
 line 2
 feature one
 _ EOD _
+
+color changed to blue
+EOD
